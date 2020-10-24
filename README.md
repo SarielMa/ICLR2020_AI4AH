@@ -1,5 +1,5 @@
 # IMPROVE ROBUSTNESS OF DNN FOR ECG SIGNAL CLASSIFICATION:A NOISE-TO-SIGNAL RATIO PERSPECTIVE
-This work was conducted at Department of Computer Science, University of Miami and has been accepted as by ICLR2020 workshop AI for affordable health https://sites.google.com/view/ai4ah-iclr2020/schedule. Paper is available at https://arxiv.org/abs/2005.09134. If you find our codes useful, we kindly ask you to cite our work.
+This work was conducted at Department of Computer Science, University of Miami and has been accepted as by ICLR2020 workshop AI for Affordable Health https://sites.google.com/view/ai4ah-iclr2020/schedule. Paper is available at https://arxiv.org/abs/2005.09134. If you find our codes useful, we kindly ask you to cite our work.
 
 ## Abstract
 Electrocardiogram (ECG) is the most widely used diagnostic tool to monitor the
