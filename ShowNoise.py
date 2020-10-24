@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 30 12:20:15 2019
-
-@author: linhai
-"""
 import os
 import numpy as np
 import matplotlib.pyplot as plt
