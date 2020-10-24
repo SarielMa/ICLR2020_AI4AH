@@ -23,7 +23,7 @@ attack, with a minimal change in accuracy on clean data.
 ## Keywords: ECG, DNN, robustness, adversarial noises
 
 # Environment
-Python version==3.8.3; Pytorch version==1.5.0; Operation system: Win 10 or CentOS 7.
+Python version==3.7; Pytorch version==1.2; Operation system: Win 10 or CentOS 7.
 
 # Prepare dataset
 Download data from https://www.kaggle.com/shayanfazeli/heartbeat. Put the csv files at /ecg/ and run preprocess.py.
