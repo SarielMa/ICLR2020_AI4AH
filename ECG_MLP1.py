@@ -8,8 +8,6 @@ import torch.optim as optim
 from RobustDNN_module import Linear
 from ECG_Dataset import get_dataloader, get_dataloader_bba
 from Evaluate import test_adv, test_rand
-from Evaluate_bba1 import test_adv as test_adv_bba1
-from Evaluate_bba1 import train_sub_model
 from Evaluate_bba_spsa import test_adv as test_adv_spsa
 #%% Net: fully connected feedforward Neural Network
 class Net(nn.Module):
